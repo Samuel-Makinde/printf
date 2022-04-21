@@ -27,6 +27,7 @@
  * @buffer: A pointer to a character array.
  * @start: A pointer to the start of buffer.
  * @len: The length of the string stored in buffer.
+ * Author: Akojede Peter and Makinde Samuel
  */
 typedef struct buffer_s
 {
