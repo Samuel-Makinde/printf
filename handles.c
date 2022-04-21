@@ -1,5 +1,5 @@
 /**
- * Authors: olawuyi michael
+ * Authors: Akojede Peter and Makinde Samuel
  */
 
 #include "holberton.h"
