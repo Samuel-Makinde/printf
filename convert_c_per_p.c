@@ -1,6 +1,6 @@
 /*
  * File: convert_c_per_p.c
- * Auth: olawuyi michael
+ * Auth: Akojede Peter amd Makinde Samuel
  */
 
 #include "holberton.h"
@@ -103,3 +103,4 @@ unsigned int convert_p(va_list args, buffer_t *output,
 
 	return (ret);
 }
+

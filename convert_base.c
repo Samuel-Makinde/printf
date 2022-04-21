@@ -1,6 +1,7 @@
 /*
+ *
  * File: convert_base.c
- * Authors: olawuyi michael
+ * Authors: Akojede Peter and Makinde Samuel
  */
 
 #include "holberton.h"
