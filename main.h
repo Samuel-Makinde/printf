@@ -12,6 +12,7 @@
  *
  * Description: struct that stores pointers to a
  * printer functions.
+ * Author: Akojede Peter and Makinde Samuel
  */
 typedef struct print
 {
