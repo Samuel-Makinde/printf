@@ -7,6 +7,7 @@
  * @ibuf: index for buffer pointer
  *
  * Return: number of chars printed.
+ * Author: Akojede Peter and Makinde Samuel
  */
 int print_add(va_list arguments, char *buf, unsigned int ibuf)
 {
