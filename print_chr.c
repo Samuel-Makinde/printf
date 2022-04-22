@@ -6,6 +6,7 @@
  * @buf: buffer pointer
  * @ibuf: index for buffer pointer
  * Return: On success 1.
+ * Author: Akojede Peter and Makinde Samuel
  */
 int print_chr(va_list arguments, char *buf, unsigned int ibuf)
 {
