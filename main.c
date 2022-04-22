@@ -6,6 +6,8 @@
  * main - Entry point
  *
  * Return: Always 0
+ *
+ * Author: Akojede Peter and Makinde Samuel
  */
 int main(void)
 {
